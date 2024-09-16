@@ -1,0 +1,1 @@
+import{ae as n,aD as o}from"./index-BMts4abJ.js";const u=({currentPage:a,total:e,pageSize:s,onChange:r,itemRender:t})=>n.jsx(o,{current:a,total:e,pageSize:s,showSizeChanger:!1,showQuickJumper:!1,onChange:r,itemRender:t});export{u as default};
