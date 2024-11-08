@@ -1,0 +1,1 @@
+import{j as n,P as o}from"./index-rwViqCVp.js";const u=({currentPage:a,total:s,pageSize:e,onChange:r,itemRender:t})=>n.jsx(o,{current:a,total:s,pageSize:e,showSizeChanger:!1,showQuickJumper:!1,onChange:r,itemRender:t});export{u as default};
